@@ -1,0 +1,7 @@
+classes= 80
+train  = /home/kkjz/harddisk/coco/trainvalno5k.txt
+valid  = /home/kkjz/harddisk/coco/5k.txt
+#valid = data/coco_val_5k.list
+names = data/coco.names
+backup = /home/kkjz/backup/
+eval=coco
